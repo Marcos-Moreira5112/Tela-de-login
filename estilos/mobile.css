@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+.container {
+    display: flex;
+    width: 85%;
+}
+
+form {
+    margin: auto;
+}
+
+.titulo > .linha {
+    width: 55px;
+}
+
+.remember-forgot {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+label {
+    margin-bottom: 8px;
+    padding-right: 15px;
+}
